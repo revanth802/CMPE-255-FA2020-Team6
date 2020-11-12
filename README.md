@@ -50,7 +50,7 @@ We performed cleaning as per the following steps :
 - Removed any kind of special words
 - Verified Users
 
-### Data Visulaization:
+### Data Visualization:
 In the preliminary analysis of the data obtained, we have performed numerous data exploration strategies and have visualized the trends that are prevalent. 
 ### Bar Charts: 
 One of the most important and interesting features of the data that we have collected is the hashtags used in twitter posts. We have tried to explore the trends by plotting the bar charts of most used hashtags and most common words used in tweets in both pre-covid and during the pandemic situation. We have observed that the hashtags #COVID, #coronavirus, #pandemic, etc have been trending since the onset of the pandemic situation.
