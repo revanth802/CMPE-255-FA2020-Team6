@@ -63,16 +63,19 @@ We have performed the word cloud visualization on the text obtained from the twe
 ![WordCloud_InCovid](https://github.com/revanth802/CMPE-255-FA2020-Team6/blob/main/Images_Figures/WordCloud_InCovid.png)
 
 
-
 ### Violin Charts: 
 We have visualized the followers count in pre-covid and during pandemic situations and observed that the followers count declined in the recent past, which could be a potential impact of the pandemic on the people’s day to day lives.
+
 ### Word to Vec Embeddings: 
 Word embeddings are performed to capture the context of a word in a document, find syntactic and semantic similarity, relation with other words.
 Word2vec Technique uses two methods to achieve this, both include Neural Networks :
 - CBOW-Model: This model takes an input of context a word as an I/p and tries to predict the word corresponding to the context.
 - Skip-Gram Model: This model works in contrast to the CBOW model and takes the input as word and predicts output as context.
 In both of the techniques, the network uses back-propagation to learn. CBOW is faster and represents frequent words in a better way, however, Skip-Grams works well with a small dataset and represents rare words effectively. 
-
+#### Pre-covid Word2vec embeddings
+![word2vec_precovid](https://github.com/revanth802/CMPE-255-FA2020-Team6/blob/main/Images_Figures/word2vec_precovid.png)
+#### In-covid Word2vec embeddings
+![word2vec_incovid](https://github.com/revanth802/CMPE-255-FA2020-Team6/blob/main/Images_Figures/wordvec_incovid.png)
 	
 ### Methods:
 
