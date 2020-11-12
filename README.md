@@ -97,7 +97,7 @@ In both of the techniques, the network uses back-propagation to learn. CBOW is f
 #### In-Covid Word2vec embeddings
 ![word2vec_incovid](https://github.com/revanth802/CMPE-255-FA2020-Team6/blob/main/Images_Figures/wordvec_incovid.png)
 	
-### Methods:
+## Methods:
 
 ### Vectorization(Feature Extraction): 
 - Hashing Vectorizer: The HashingVectorizer applies a hashing function to term frequency counts in each document. The HashingVectorizer has a parameter n_features which is 1048576 by default. When operating hashing, they don't compute dictionary mapping terms to a unique index to use for each one.
