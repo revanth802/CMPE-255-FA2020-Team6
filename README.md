@@ -50,6 +50,18 @@ We performed cleaning as per the following steps :
 - Removed any kind of special words
 - Verified Users
 
+### Preliminary Analysis of Data:
+	In the preliminary analysis of the data obtained, we have performed numerous data exploration strategies and have visualized the trends that are prevalent. 
+Bar Charts : One of the most important and interesting features of the data that we have collected is the hashtags used in twitter posts. We have tried to explore the trends by plotting the bar charts of most used hashtags and most common words used in tweets in both pre-covid and during the pandemic situation. We have observed that the hashtags #COVID, #coronavirus, #pandemic, etc have been trending since the onset of the pandemic situation.
+WordCloud: We have performed the word cloud visualization on the text obtained from the tweets of twitter by tokenizing the raw text obtained into words. This visualization is also done for both pre-covid and in-covid periods during the pandemic. We have noticed that the words COVID, Wildfires, Must Protect, Sanitise, etc. have become more and more frequent in the recent past.
+Violin Charts: We have visualized the followers count in pre-covid and during pandemic situations and observed that the followers count declined in the recent past , which could be a potential impact of the pandemic on the people’s day to day lives.
+Word to Vec Embeddings: Word embeddings are performed to capture the context of a word in document, find syntactic and semantic similarity, relation with other words.
+Word2vec Technique uses two methods 2 achieve this , both includes Neural Networks :
+- CBOW-Model : This model takes input of context a word as an I/p and tries to predict the word corresponding to the context.
+- Skip-Gram Model : This model works in contrast to the CBOW model and takes the input as word and predicts output as context.
+In both of the techniques the network uses back-propagation to learn. CBOW is faster and represents frequent words in a better way , however Skip-Grams works well with small dataset and represents rare words effectively. 
+
+
 
 
 
