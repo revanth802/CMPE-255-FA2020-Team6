@@ -57,6 +57,13 @@ In the preliminary analysis of the data obtained, we have performed numerous dat
 One of the most important and interesting features of the data that we have collected is the hashtags used in Twitter posts. We have tried to explore the trends by plotting the bar charts of most used hashtags and the most common words used in tweets in both pre-covid and during the pandemic situation. We have observed that the hashtags #COVID, #coronavirus, #pandemic, etc have been trending since the onset of the pandemic situation.
 ### WordCloud: 
 We have performed the word cloud visualization on the text obtained from the tweets of Twitter by tokenizing the raw text obtained into words. This visualization is also done for both pre-covid and in-covid periods during the pandemic. We have noticed that the words COVID, Wildfires, Must Protect, Sanitise, etc. have become more and more frequent in the recent past.
+
+![WordCloud_PreCovid](https://github.com/revanth802/CMPE-255-FA2020-Team6/blob/main/Images_Figures/WordCloud_PreCovid.png)
+
+![WordCloud_InCovid](https://github.com/revanth802/CMPE-255-FA2020-Team6/blob/main/Images_Figures/WordCloud_InCovid.png)
+
+
+
 ### Violin Charts: 
 We have visualized the followers count in pre-covid and during pandemic situations and observed that the followers count declined in the recent past, which could be a potential impact of the pandemic on the people’s day to day lives.
 ### Word to Vec Embeddings: 
