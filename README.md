@@ -58,8 +58,9 @@ One of the most important and interesting features of the data that we have coll
 ### WordCloud: 
 We have performed the word cloud visualization on the text obtained from the tweets of Twitter by tokenizing the raw text obtained into words. This visualization is also done for both pre-covid and in-covid periods during the pandemic. We have noticed that the words COVID, Wildfires, Must Protect, Sanitise, etc. have become more and more frequent in the recent past.
 
+#### Pre-Covid WordCloud Visualization
 ![WordCloud_PreCovid](https://github.com/revanth802/CMPE-255-FA2020-Team6/blob/main/Images_Figures/WordCloud_PreCovid.png)
-
+#### In-Covid WordCloud Visualization
 ![WordCloud_InCovid](https://github.com/revanth802/CMPE-255-FA2020-Team6/blob/main/Images_Figures/WordCloud_InCovid.png)
 
 
@@ -72,9 +73,9 @@ Word2vec Technique uses two methods to achieve this, both include Neural Network
 - CBOW-Model: This model takes an input of context a word as an I/p and tries to predict the word corresponding to the context.
 - Skip-Gram Model: This model works in contrast to the CBOW model and takes the input as word and predicts output as context.
 In both of the techniques, the network uses back-propagation to learn. CBOW is faster and represents frequent words in a better way, however, Skip-Grams works well with a small dataset and represents rare words effectively. 
-#### Pre-covid Word2vec embeddings
+#### Pre-Covid Word2vec embeddings
 ![word2vec_precovid](https://github.com/revanth802/CMPE-255-FA2020-Team6/blob/main/Images_Figures/word2vec_precovid.png)
-#### In-covid Word2vec embeddings
+#### In-Covid Word2vec embeddings
 ![word2vec_incovid](https://github.com/revanth802/CMPE-255-FA2020-Team6/blob/main/Images_Figures/wordvec_incovid.png)
 	
 ### Methods:
