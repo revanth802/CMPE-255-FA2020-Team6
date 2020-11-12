@@ -65,6 +65,20 @@ Word2vec Technique uses two methods 2 achieve this , both includes Neural Networ
 - Skip-Gram Model : This model works in contrast to the CBOW model and takes the input as word and predicts output as context.
 In both of the techniques the network uses back-propagation to learn. CBOW is faster and represents frequent words in a better way , however Skip-Grams works well with small dataset and represents rare words effectively. 
 
+	
+### Methods:
+
+### Vectorization(Feature Extraction): 
+- Hashing Vectorizer: The HashingVectorizer applies a hashing function to term frequency counts in each document. The HashingVectorizer has a parameter n_features which is 1048576 by default. When hashing, they don't actually compute a dictionary mapping terms to a unique index to use for each one.
+- Tfidf Vectorizer: With Tfidfvectorizer we will systematically compute word counts using CountVectorizer and then compute the Inverse Document Frequency (IDF) values and only then compute the Tf-idf scores. Under the hood, it computes the word counts, IDF values, and Tf-idf scores all using the same dataset.
+- Word2vec vectorizer: Word2vec is a technique for natural language processing. The word2vec algorithm uses a neural network model to learn word associations from a large corpus of text. Once trained, such a model can detect synonymous words or suggest additional words for a partial sentence. Therefore, it is possible to correlate the words in the text by observing the neighbouring words.
+
+
+
+### Clustering:
+K-means: k-means clustering is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the cluster. This results in a partitioning of the data space into Voronoi cells. It is popular for cluster analysis in data mining. k-means clustering minimizes within-cluster variances (squared Euclidean distances).
+
+
 
 
 
