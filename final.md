@@ -86,6 +86,11 @@ MeanShift:
 
 ![BarCharts_PreCovid](https://github.com/revanth802/CMPE-255-FA2020-Team6/blob/main/Images_Figures/MeanShift.png)
 
+## Conclusion
+
+The fatality rate has decreased and thus the survival rate of passengers have increased over time. Even though the flight crashes become more frequent during the mid 19th century however the survival rate of passengers is also showing a slight increase over the last few decades. The trends from various data features shows that the future of the aircraft is becoming more and more safer. From 2000 onwards the number of aircraft crashes are declining and are expected to go further down in coming years. On top of that, the fatality rate of aircraft accidents are also declining steadily. Thus it can be concluded based on the provided data the aircraft traveling is becoming more and more safer. 
+A Random forest based prediction model predicts that the fatality rate in aircraft accidents are expected to decrease further in future based on the Severity future. Similar to previous results the prediction accuracy drops drastically as the prediction time moves further from the original data(timeline).
+
 
 ## References
 - https://towardsdatascience.com/k-means-clustering-8e1e64c1561c 
