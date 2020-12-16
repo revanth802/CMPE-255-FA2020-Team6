@@ -58,10 +58,13 @@ MeanShift Model : This model is a good fit for handling images and computer visi
 k-means:
 
 ![BarCharts_PreCovid](https://github.com/revanth802/CMPE-255-FA2020-Team6/blob/main/Images_Figures/ScatterPlot1.png)
-![BarCharts_PreCovid](https://github.com/revanth802/CMPE-255-FA2020-Team6/blob/main/Images_Figures/hashtags_precovid.png)
-![BarCharts_PreCovid](https://github.com/revanth802/CMPE-255-FA2020-Team6/blob/main/Images_Figures/hashtags_precovid.png)
-![BarCharts_PreCovid](https://github.com/revanth802/CMPE-255-FA2020-Team6/blob/main/Images_Figures/hashtags_precovid.png)
-![BarCharts_PreCovid](https://github.com/revanth802/CMPE-255-FA2020-Team6/blob/main/Images_Figures/hashtags_precovid.png)
+![BarCharts_PreCovid](https://github.com/revanth802/CMPE-255-FA2020-Team6/blob/main/Images_Figures/ScatterPlot2.png)
+![BarCharts_PreCovid](https://github.com/revanth802/CMPE-255-FA2020-Team6/blob/main/Images_Figures/PrecovidC1.png)
+![BarCharts_PreCovid](https://github.com/revanth802/CMPE-255-FA2020-Team6/blob/main/Images_Figures/Precovidc2.png)
+![BarCharts_PreCovid](https://github.com/revanth802/CMPE-255-FA2020-Team6/blob/main/Images_Figures/Precovidc3.png)
+![BarCharts_PreCovid](https://github.com/revanth802/CMPE-255-FA2020-Team6/blob/main/Images_Figures/Precovidc4.png)
+![BarCharts_PreCovid](https://github.com/revanth802/CMPE-255-FA2020-Team6/blob/main/Images_Figures/Precovidc5.png)
+![BarCharts_PreCovid](https://github.com/revanth802/CMPE-255-FA2020-Team6/blob/main/Images_Figures/Precovid5.png)
 
 DBScan:
 
