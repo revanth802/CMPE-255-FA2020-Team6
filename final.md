@@ -84,7 +84,7 @@ Affinity Propagation:
 
 MeanShift:
 
-![BarCharts_PreCovid](https://github.com/revanth802/CMPE-255-FA2020-Team6/blob/main/Images_Figures/hashtags_precovid.png)
+![BarCharts_PreCovid](https://github.com/revanth802/CMPE-255-FA2020-Team6/blob/main/Images_Figures/MeanShift.png)
 
 
 ## References
