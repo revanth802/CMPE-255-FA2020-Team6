@@ -3,7 +3,7 @@
 The project analyzes tweets to get a better understanding of the difference between the Covid and In-Covid social media activity of people.The COVID-19 Pandemic has shifted and changed our day to day lives in a very exponential manner. While it is difficult to measure this due to the lack of everyday data of people’s lives, social media can provide us little insight into people’s emotions, spending habits, and actions. Twitter was selected due to its popularity and a common platform for people to express their emotions, share actions, and activities. We have used various clustering techniques to analyze tweets including K-Means, DB Scan, Gaussian, BIRCH, etc. Clustering provided insights into trending topics and a clear demarcation between them during the pre-covid and in-covid time period.
 
 
-### Experiments/Analysis
+## Experiments/Analysis
 
 #### Preprocessing:
 
@@ -53,7 +53,7 @@ MeanShift Model : This model is a good fit for handling images and computer visi
 
 
 
-#### Comparisons
+## Comparisons
 
 k-means:
 
@@ -88,8 +88,7 @@ MeanShift:
 
 ## Conclusion
 
-The fatality rate has decreased and thus the survival rate of passengers have increased over time. Even though the flight crashes become more frequent during the mid 19th century however the survival rate of passengers is also showing a slight increase over the last few decades. The trends from various data features shows that the future of the aircraft is becoming more and more safer. From 2000 onwards the number of aircraft crashes are declining and are expected to go further down in coming years. On top of that, the fatality rate of aircraft accidents are also declining steadily. Thus it can be concluded based on the provided data the aircraft traveling is becoming more and more safer. 
-A Random forest based prediction model predicts that the fatality rate in aircraft accidents are expected to decrease further in future based on the Severity future. Similar to previous results the prediction accuracy drops drastically as the prediction time moves further from the original data(timeline).
+Based on the research done in the project, COVID plays an important role in people’s lives. This can be clearly evident through the microblogging websites such as Twitter, Facebook etc.. Hence to be aware of the various trends, it is required to perform clustering in order to get the topics of the data which are being frequently. After performing various clustering algorithms, it is clearly visible that the k-means clustering algorithm is useful for this data, since it is classifying the clusters efficiently, whereas the other clustering algorithms are not able to generate proper partitions within the dataset.
 
 
 ## References
